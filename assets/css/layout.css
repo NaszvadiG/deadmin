@@ -1,0 +1,30 @@
+.black-flag{
+    background: black;
+    width: 10px;
+    height: 10px;
+    display: block;
+    margin: 0px 10px;
+    display: inline-block;  
+}
+.green-flag{
+    background: green;
+    width: 10px;
+    height: 10px;
+    display: block;
+    margin: 0px 10px;
+    display: inline-block;
+}
+.red-flag{
+    background: #f00;
+    width: 10px;
+    height: 10px;
+    display: block;
+    margin: 0px 10px;
+    display: inline-block;
+}
+.btn-upload{
+    width: 100%;
+}
+input[type=file]{
+    margin: 0px auto;
+}
